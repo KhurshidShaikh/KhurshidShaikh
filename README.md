@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khurshid Shaikh</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
 - 📫 How to reach me **shaikhkhurshid112277@gmail.com**
 
